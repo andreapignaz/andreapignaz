@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreapignaz
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently studying at Politecnico di Torino, master's degree in Computer Engineering
-- 💞️ I’m looking to collaborate on nothing, for now
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
 
 <!---
