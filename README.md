@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreapignaz
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently studying at Politecnico di Torino, master's degree in Computer Engineering
+- 🌱 Phd Student in Computer Engineering at Politecnico di Torino
 
 <!---
 - 💞️ I’m looking to collaborate on 
